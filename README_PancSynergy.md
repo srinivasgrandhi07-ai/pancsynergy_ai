@@ -6,7 +6,9 @@ PancSynergy AI is an end-to-end computational oncology and cheminformatics appli
 
 > **Research-use notice:** PancSynergy provides computational estimates derived from in-vitro and patent reaction data. Predictions are computational hypotheses and do not replace laboratory confirmation, clinical trials, or medical diagnosis. All candidate combinations require formal experimental validation before biological or clinical conclusions are drawn.
 
-> 📘 **Theoretical Manual & Math Guide:** For a comprehensive, rigorous breakdown of the machine learning algorithms, mathematical derivations, Morgan fingerprint circular hashing, symmetric pair feature math, data cleaning steps, and continuous pharmacodynamic kill kinetics, refer to the dedicated [**THEORY.md**](THEORY.md) documentation.
+> 📘 **Theoretical Manual & Math Guide:** Refer to the dedicated [**THEORY.md**](THEORY.md) documentation for mathematical derivations, Morgan fingerprint circular hashing, symmetric pair feature math, data cleaning steps, and continuous pharmacodynamic kill kinetics.
+>
+> 🔬 **Machine Learning & Model Training Guide:** Refer to [**MODEL_TRAINING.md**](MODEL_TRAINING.md) for detailed documentation of all 8 benchmarked regression models, hyperparameters, cross-validation protocols, the complete empirical leaderboard, and USPTO-50K reaction classifier training.
 
 ---
 
